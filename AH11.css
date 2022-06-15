@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	color: #B6CAB4;
+	width: 1170px;
+	margin: auto;
+}
+.header{
+}
+.nav-area{
+	color: #B6CAB4;
+	float: right;
+	list-style: none;
+	margin-top: 30px;
+}
+.nav-area li{
+	display: inline;
+}
+.nav-area li{
+	color: #B6CAB4 ;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+}
+.nav-area li a:hover{
+	color: #B6CAB4 ;
+}
+body {
+  background-image: url( "pozadina.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+h1, h2 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: #B6CAB4;
+	margin-top: 15px;
+	
+	} 
+.paragraf {color: darkcyan; 
+	width: 1000px;
+	margin: auto;
+	margin-top: 50px;
+	
+	}
+.welcome-text p{
+	margin-top: 100px;
+		text-align:center;
+	font-size:20px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif" ;
+	color: #B6CAB4;
+}
+img {
+	height: 300px;
+	align-content: center;
+	align-items: center;
+	padding: 40px;
+	padding-left: 80px;
+	margin:auto;
+	
+}
+.b{
+	margin-left: 740px;
+	width: 1000px;
+	color: darkcyan;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	
+	
+
+}
+.h3{
+	margin-top: 25px;
+
+	
+}
+.c{
+	margin-left: 250px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	
+}
+.d{
+	margin-left: 500px;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	
+}
